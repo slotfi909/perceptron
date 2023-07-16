@@ -2,7 +2,7 @@ implementation of a single neuron(perceptron) classifier using numpy
 
 ## what is a perceptron?
 In machine learning, the perceptron (or McCulloch-Pitts neuron) is an algorithm for supervised learning of binary classifiers.<br>
-this perceptron uses a sigmoid function as it activation function.(although other activation function such as ReLU) could be used in order to avoid [vanishing gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem))
+this perceptron uses a sigmoid function as it activation function.(although other activation function such as ReLU could be used in order to avoid [vanishing gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem))
 <!--
 ![image](https://github.com/slotfi909/perceptron/assets/82094903/ae8f8524-67a7-4c41-84b1-2af2c52dd8bc)# perceptron
 -->
